@@ -3,6 +3,13 @@
 **Modified by:** Daniel Nordmark, Yodapp AB
 My suggestion is that you go to the link bellow instead of forking this repo as this repo is intended to see what I'm able to do based on VQGAN and CLIP, you should expect that the code in this repo to be unstable.
 
+### Paperspace
+Read more: https://gradient.paperspace.com/
+Information about using Google Colab notebook in Paperspace using Github: 
+https://docs.paperspace.com/gradient/explore-train-deploy/notebooks/github-badge-run-on-gradient
+
+Try it: [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/Yodapp/ai-images-vqcan-clip/blob/AI_Generated_Images_With_VQGAN_and_CLIP.ipynb)
+
 ## Copied from
 This copy is based on the Google Colab Notebook by Max Woolf that is available here:
 https://colab.research.google.com/drive/1wkF67ThUz37T2_oPIuSwuO4e_-0vjaLs
